@@ -1,2 +1,0 @@
-# mrbloom
-Teaching and Learning
